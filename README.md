@@ -1,2 +1,3 @@
-# PerfoMAX-issues
-Issues for PerfoMax
+This is the issue tracker page for PerfoMax on Modrinth.
+
+https://modrinth.com/modpack/perfomax
